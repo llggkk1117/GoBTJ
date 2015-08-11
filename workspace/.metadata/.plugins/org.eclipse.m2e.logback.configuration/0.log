@@ -567,3 +567,11 @@
 2015-08-10 17:08:23,727 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
 2015-08-10 17:08:23,729 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-10 17:08:23,739 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-10 17:16:12,887 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 17:16:12,908 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-10 17:16:12,911 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 17:16:12,917 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-10 17:25:49,984 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 17:25:49,993 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-10 17:25:49,995 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 17:25:50,000 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
