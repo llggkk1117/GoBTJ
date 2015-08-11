@@ -575,3 +575,15 @@
 2015-08-10 17:25:49,993 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
 2015-08-10 17:25:49,995 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-10 17:25:50,000 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-10 17:31:30,122 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 17:31:30,130 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-10 17:31:30,132 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 17:31:30,136 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-10 18:04:22,260 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 18:04:22,270 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-10 18:04:22,273 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 18:04:22,280 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-10 18:07:24,519 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 18:07:24,526 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-10 18:07:24,528 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-10 18:07:24,531 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
