@@ -314,3 +314,794 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-10 18:07:24.528
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2015-08-14 12:57:09.309 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 1 0 2015-08-14 12:57:21.506
+!MESSAGE location of launcher INI: C:\PTP\Eclipse\x64\eclipse.ini
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 4 0 2015-08-14 12:57:22.791
+!MESSAGE Unable to load version information
+!STACK 0
+java.lang.IllegalStateException: HTTP request failed, response code 403, response: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> 
+<head> 
+  <title>Amazon Secure Web Gateway Service</title> 
+<style type="text/css">
+#header { overflow: auto; background-color: rgb(255, 255, 255); min-width: 675px; padding-left: 15px; padding-right: 15px; border-bottom: 1px solid rgb(204, 204, 204); padding-bottom: 3px; }
+#header h1{ font-size: 20px; line-height: 24px; color: rgb(20, 110, 180); }
+h1 { font-weight: normal; font-size: 26px; margin-top: 7px; margin-bottom: 0pt; color: rgb(20, 110, 180); }
+h2,h3,h4,h5,h6 { font-family: verdana,arial,helvetica,sans-serif; color: rgb(43, 43, 43); font-weight: bold; margin-top: 21px; margin-bottom: 0pt; }
+h2 { font-size: 16px; color: rgb(204, 102, 0); }
+h3 { font-size: 15px; }
+h4,h5,h6 { font-size: 14px; }
+hr { color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); height: 1px; border: 0 }
+a { color: rgb(0, 43, 184); }
+body,html { height: 100%; min-height: 100%; }
+body { background-color: rgb(219, 219, 219); font-family: Helvetica,Arial,sans-serif; font-size: 14px; margin: 0pt; padding: 0pt; }
+body.fixed-width { min-width: 984px; }
+body.fixed-width .inner-container { margin: 0pt auto; width: 944px; }
+table { font-size: 12px; }
+logo { margin: 10px; align: left; }
+#content { overflow: auto; background-color: rgb(255, 255, 255); min-width: 675px; padding: 10px 20px 50px; }
+#footer { clear: both; overflow: auto; background-color: rgb(219, 219, 219); background-image: -moz-linear-gradient(center top , rgb(219, 219, 219) 1px, rgb(131, 131, 131) 1px, rgb(131, 131, 131) 2px, rgb(184, 184, 184) 2px, rgb(219, 219, 219) 35px); min-height: 100px; min-width: 675px; padding: 20px; color: rgb(89, 97, 107); }
+#footer .column,#footer .business_card { float: left; font-size: 14px; margin-right: 25px; width: 225px; }
+#footer .column a,#footer .business_card a { color: rgb(89, 97, 107); text-decoration: none; }
+#footer .column a:hover,#footer .business_card a:hover { text-decoration: underline; }
+#footer .column h3,#footer .business_card h3 { font-size: 14px; color: rgb(89, 97, 107); margin: 0pt 16px 6px 0pt; font-weight: bold; }
+#footer .column ul,#footer .business_card ul { list-style: none outside none; margin: 0pt; padding: 0pt; }
+#footer .column li,#footer .business_card li { color: rgb(89, 97, 107); margin: 0pt 0pt 6px 6px; }
+#footer .business_card { box-shadow: 0pt 0pt 10px rgba(0, 0, 0, 0.2); border-radius: 5px 5px 5px 5px; border: 1px solid rgb(153, 153, 153); margin: 0pt; width: 300px; background-color: rgb(245, 245, 245); float: right ! important; padding: 12px; }
+#footer .business_card h3 { font-size: 16px; }
+#footer .business_card .browser_support { float: right; font-size: 12px; }
+</style> 
+
+</head> 
+
+<body class="fixed-width"> 
+  <div id='header'> 
+  <h1>Amazon Secure Web Gateway Service</h1> 
+      </div> 
+     <div id='content' style="text-align: left;">
+
+	 
+  
+<!--### eun body starts here ###-->
+
+<h1>Browser blocked due to Unpatched Security Vulnerability</h1>
+<hr>
+
+<p>
+This browser version &quot;Apache-HttpClient/4.4 (Java 1.5 minimum; Java/1.8.0_51)&quot; is not currently permitted to access the Internet due to <strong>unpatched security vulnerabilities</strong> that are being actively exploited on the Internet. Please see <a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/ProxyPolicy" title="Corporate Web Proxy Rules">Corporate Web Proxy Rules</a> for an explanation of why you are getting blocked.
+</p>
+
+<p>You need to <strong>use another browser</strong> to access the Internet. If you are getting blocked using IE, please use Firefox or Chrome. Firefox is installed by default on all Amazon imaged machines. Chrome is available from Run Advertised Programs on Windows and from Self Service on Mac OS X. </p>
+
+<p style="color:red">As of 01/10/2013, we are blocking IE 8 or older and all versions of Java from accessing the Internet, except for <a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/Whitelist">whitelisted sites</a>. If the site you are trying to access only works with IE, then ensure that you are <strong><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/InstallingIE9">running IE 9</a></strong>. We don't yet have an ETA from Microsoft or Oracle as to when these vulnerabilities will be fixed. If you are running already running IE 9, then you probably need to <strong><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/DisableIE9CompatibilityMode">Disable Compatibility Mode</a></strong></p>
+
+
+
+
+
+<!--### eun body ends here ###-->
+
+
+<p>
+
+
+
+</p>
+</div>
+   <div id='footer'>
+      <div class='inner-container'>
+        <div class='column'>
+          <h3>Secure Web Gateways</h3>
+          <ul>
+            <li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways">More Info</a></li>
+			<li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways#Press_Release">Press Release</a></li>
+          </ul>
+        </div>
+        <div class='business_card'>
+          <h3>Need help?</h3>
+          <ul>
+            <li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways#FAQ">FAQ</a></li>
+            <li><a href="https://infosec.amazon.com">Information Security</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.ZtHttpClientImpl.performRequest(ZtHttpClientImpl.java:241)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.ZtHttpClientImpl.performRequest(ZtHttpClientImpl.java:94)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.loadVersions(VersionsChecker.java:89)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.reloadVersions(VersionsChecker.java:79)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.loadVersions(VersionsChecker.java:70)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.getVersions(VersionsChecker.java:63)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.getJavaVersion(VersionsChecker.java:41)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.JavaVersionUtil.getLatestOracleJavaVersion(JavaVersionUtil.java:27)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.makeIssuesBodyModel(PluginWindowModel.java:154)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.<init>(PluginWindowModel.java:88)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.<clinit>(PluginWindowModel.java:33)
+	at com.zeroturnaround.eclipse.optimizer.plugin.Startup$1.run(Startup.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-14 12:57:23.720
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\genelee'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:57:32.649
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:57:32.716
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2015-08-14 12:58:22.027
+!MESSAGE Could not auto-share project GeneLibrary
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: Provided SVN information does not match that on disk for project 'GeneLibrary'.
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2015-08-14 12:58:22.028
+!MESSAGE Provided SVN information does not match that on disk for project 'GeneLibrary'.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:58:46.943
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:58:46.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:58:48.052
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:58:48.059
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:58:59.191
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 12:58:59.205
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:02:54.809
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:02:54.820
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:03:25.622
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:03:25.630
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:03:28.976
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:03:28.994
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:04:46.900
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:04:46.924
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:05:38.923
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:05:38.935
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:05:43.660
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:05:43.677
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:06:57.942
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:06:57.997
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:07:02.303
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:07:02.323
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:23:35.629
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:23:35.649
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:23:41.659
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 13:23:41.683
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2015-08-14 14:23:45.447 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 1 0 2015-08-14 14:24:11.154
+!MESSAGE location of launcher INI: C:\PTP\Eclipse\x64\eclipse.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-14 14:24:13.571
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\genelee'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 4 0 2015-08-14 14:24:13.881
+!MESSAGE Unable to load version information
+!STACK 0
+java.lang.IllegalStateException: HTTP request failed, response code 403, response: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> 
+<head> 
+  <title>Amazon Secure Web Gateway Service</title> 
+<style type="text/css">
+#header { overflow: auto; background-color: rgb(255, 255, 255); min-width: 675px; padding-left: 15px; padding-right: 15px; border-bottom: 1px solid rgb(204, 204, 204); padding-bottom: 3px; }
+#header h1{ font-size: 20px; line-height: 24px; color: rgb(20, 110, 180); }
+h1 { font-weight: normal; font-size: 26px; margin-top: 7px; margin-bottom: 0pt; color: rgb(20, 110, 180); }
+h2,h3,h4,h5,h6 { font-family: verdana,arial,helvetica,sans-serif; color: rgb(43, 43, 43); font-weight: bold; margin-top: 21px; margin-bottom: 0pt; }
+h2 { font-size: 16px; color: rgb(204, 102, 0); }
+h3 { font-size: 15px; }
+h4,h5,h6 { font-size: 14px; }
+hr { color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); height: 1px; border: 0 }
+a { color: rgb(0, 43, 184); }
+body,html { height: 100%; min-height: 100%; }
+body { background-color: rgb(219, 219, 219); font-family: Helvetica,Arial,sans-serif; font-size: 14px; margin: 0pt; padding: 0pt; }
+body.fixed-width { min-width: 984px; }
+body.fixed-width .inner-container { margin: 0pt auto; width: 944px; }
+table { font-size: 12px; }
+logo { margin: 10px; align: left; }
+#content { overflow: auto; background-color: rgb(255, 255, 255); min-width: 675px; padding: 10px 20px 50px; }
+#footer { clear: both; overflow: auto; background-color: rgb(219, 219, 219); background-image: -moz-linear-gradient(center top , rgb(219, 219, 219) 1px, rgb(131, 131, 131) 1px, rgb(131, 131, 131) 2px, rgb(184, 184, 184) 2px, rgb(219, 219, 219) 35px); min-height: 100px; min-width: 675px; padding: 20px; color: rgb(89, 97, 107); }
+#footer .column,#footer .business_card { float: left; font-size: 14px; margin-right: 25px; width: 225px; }
+#footer .column a,#footer .business_card a { color: rgb(89, 97, 107); text-decoration: none; }
+#footer .column a:hover,#footer .business_card a:hover { text-decoration: underline; }
+#footer .column h3,#footer .business_card h3 { font-size: 14px; color: rgb(89, 97, 107); margin: 0pt 16px 6px 0pt; font-weight: bold; }
+#footer .column ul,#footer .business_card ul { list-style: none outside none; margin: 0pt; padding: 0pt; }
+#footer .column li,#footer .business_card li { color: rgb(89, 97, 107); margin: 0pt 0pt 6px 6px; }
+#footer .business_card { box-shadow: 0pt 0pt 10px rgba(0, 0, 0, 0.2); border-radius: 5px 5px 5px 5px; border: 1px solid rgb(153, 153, 153); margin: 0pt; width: 300px; background-color: rgb(245, 245, 245); float: right ! important; padding: 12px; }
+#footer .business_card h3 { font-size: 16px; }
+#footer .business_card .browser_support { float: right; font-size: 12px; }
+</style> 
+
+</head> 
+
+<body class="fixed-width"> 
+  <div id='header'> 
+  <h1>Amazon Secure Web Gateway Service</h1> 
+      </div> 
+     <div id='content' style="text-align: left;">
+
+	 
+  
+<!--### eun body starts here ###-->
+
+<h1>Browser blocked due to Unpatched Security Vulnerability</h1>
+<hr>
+
+<p>
+This browser version &quot;Apache-HttpClient/4.4 (Java 1.5 minimum; Java/1.8.0_51)&quot; is not currently permitted to access the Internet due to <strong>unpatched security vulnerabilities</strong> that are being actively exploited on the Internet. Please see <a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/ProxyPolicy" title="Corporate Web Proxy Rules">Corporate Web Proxy Rules</a> for an explanation of why you are getting blocked.
+</p>
+
+<p>You need to <strong>use another browser</strong> to access the Internet. If you are getting blocked using IE, please use Firefox or Chrome. Firefox is installed by default on all Amazon imaged machines. Chrome is available from Run Advertised Programs on Windows and from Self Service on Mac OS X. </p>
+
+<p style="color:red">As of 01/10/2013, we are blocking IE 8 or older and all versions of Java from accessing the Internet, except for <a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/Whitelist">whitelisted sites</a>. If the site you are trying to access only works with IE, then ensure that you are <strong><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/InstallingIE9">running IE 9</a></strong>. We don't yet have an ETA from Microsoft or Oracle as to when these vulnerabilities will be fixed. If you are running already running IE 9, then you probably need to <strong><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/DisableIE9CompatibilityMode">Disable Compatibility Mode</a></strong></p>
+
+
+
+
+
+<!--### eun body ends here ###-->
+
+
+<p>
+
+
+
+</p>
+</div>
+   <div id='footer'>
+      <div class='inner-container'>
+        <div class='column'>
+          <h3>Secure Web Gateways</h3>
+          <ul>
+            <li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways">More Info</a></li>
+			<li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways#Press_Release">Press Release</a></li>
+          </ul>
+        </div>
+        <div class='business_card'>
+          <h3>Need help?</h3>
+          <ul>
+            <li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways#FAQ">FAQ</a></li>
+            <li><a href="https://infosec.amazon.com">Information Security</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.ZtHttpClientImpl.performRequest(ZtHttpClientImpl.java:241)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.ZtHttpClientImpl.performRequest(ZtHttpClientImpl.java:94)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.loadVersions(VersionsChecker.java:89)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.reloadVersions(VersionsChecker.java:79)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.loadVersions(VersionsChecker.java:70)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.getVersions(VersionsChecker.java:63)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.getJavaVersion(VersionsChecker.java:41)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.JavaVersionUtil.getLatestOracleJavaVersion(JavaVersionUtil.java:27)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.makeIssuesBodyModel(PluginWindowModel.java:154)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.<init>(PluginWindowModel.java:88)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.<clinit>(PluginWindowModel.java:33)
+	at com.zeroturnaround.eclipse.optimizer.plugin.Startup$1.run(Startup.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:24:18.200
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:24:18.212
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:29:21.501
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:29:21.509
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:29:32.252
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:29:32.268
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:29:38.215
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:29:38.234
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:36:59.729
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:36:59.750
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:04.959
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:04.973
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:08.634
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:08.644
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:25.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:25.644
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:29.998
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:30.018
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:33.520
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:37:33.541
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:46:54.258
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:46:54.285
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:46:57.675
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:46:57.693
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:48:14.391
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:48:14.414
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:51:12.142
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:51:12.167
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:52:36.019
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:52:36.032
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:54:37.902
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:54:37.919
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:54:46.622
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:54:46.647
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:54:49.895
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:54:49.915
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:55:14.679
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:55:14.704
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:56:56.107
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:56:56.121
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:56:59.082
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 14:56:59.092
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:05.203
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:05.225
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:08.138
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:08.168
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:53.151
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:53.167
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:56.512
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:56.533
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:59.586
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:01:59.601
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:02:33.727
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:02:33.742
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:02:36.565
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:02:36.585
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:06:47.316
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:06:47.336
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:07:18.566
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:07:18.588
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:08:51.438
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:08:51.455
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:09:17.435
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:09:17.465
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:09:34.183
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:09:34.200
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:09:35.466
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:09:35.487
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:10:25.692
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:10:25.707
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:11:23.675
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:11:23.694
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:11:42.368
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:11:42.389
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:12:39.078
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:12:39.100
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:13:38.235
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:13:38.251
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:13:45.267
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:13:45.290
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:13:52.318
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:13:52.336
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:22:57.123
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:22:57.152
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:23:08.213
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:23:08.226
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:27:28.325
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:27:28.345
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:27:31.458
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:27:31.485
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:28:12.273
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:28:12.288
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:28:15.522
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:28:15.544
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:29:24.843
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:29:24.859
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:29:30.400
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:29:30.423
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:30:05.462
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:30:05.486
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:30:09.591
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:30:09.605
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:30:57.528
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:30:57.548
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2015-08-14 15:31:34.732 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 1 0 2015-08-14 15:31:47.400
+!MESSAGE location of launcher INI: C:\PTP\Eclipse\x64\eclipse.ini
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-08-14 15:31:48.328
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\genelee'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 4 0 2015-08-14 15:31:48.400
+!MESSAGE Unable to load version information
+!STACK 0
+java.lang.IllegalStateException: HTTP request failed, response code 403, response: <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> 
+<head> 
+  <title>Amazon Secure Web Gateway Service</title> 
+<style type="text/css">
+#header { overflow: auto; background-color: rgb(255, 255, 255); min-width: 675px; padding-left: 15px; padding-right: 15px; border-bottom: 1px solid rgb(204, 204, 204); padding-bottom: 3px; }
+#header h1{ font-size: 20px; line-height: 24px; color: rgb(20, 110, 180); }
+h1 { font-weight: normal; font-size: 26px; margin-top: 7px; margin-bottom: 0pt; color: rgb(20, 110, 180); }
+h2,h3,h4,h5,h6 { font-family: verdana,arial,helvetica,sans-serif; color: rgb(43, 43, 43); font-weight: bold; margin-top: 21px; margin-bottom: 0pt; }
+h2 { font-size: 16px; color: rgb(204, 102, 0); }
+h3 { font-size: 15px; }
+h4,h5,h6 { font-size: 14px; }
+hr { color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); height: 1px; border: 0 }
+a { color: rgb(0, 43, 184); }
+body,html { height: 100%; min-height: 100%; }
+body { background-color: rgb(219, 219, 219); font-family: Helvetica,Arial,sans-serif; font-size: 14px; margin: 0pt; padding: 0pt; }
+body.fixed-width { min-width: 984px; }
+body.fixed-width .inner-container { margin: 0pt auto; width: 944px; }
+table { font-size: 12px; }
+logo { margin: 10px; align: left; }
+#content { overflow: auto; background-color: rgb(255, 255, 255); min-width: 675px; padding: 10px 20px 50px; }
+#footer { clear: both; overflow: auto; background-color: rgb(219, 219, 219); background-image: -moz-linear-gradient(center top , rgb(219, 219, 219) 1px, rgb(131, 131, 131) 1px, rgb(131, 131, 131) 2px, rgb(184, 184, 184) 2px, rgb(219, 219, 219) 35px); min-height: 100px; min-width: 675px; padding: 20px; color: rgb(89, 97, 107); }
+#footer .column,#footer .business_card { float: left; font-size: 14px; margin-right: 25px; width: 225px; }
+#footer .column a,#footer .business_card a { color: rgb(89, 97, 107); text-decoration: none; }
+#footer .column a:hover,#footer .business_card a:hover { text-decoration: underline; }
+#footer .column h3,#footer .business_card h3 { font-size: 14px; color: rgb(89, 97, 107); margin: 0pt 16px 6px 0pt; font-weight: bold; }
+#footer .column ul,#footer .business_card ul { list-style: none outside none; margin: 0pt; padding: 0pt; }
+#footer .column li,#footer .business_card li { color: rgb(89, 97, 107); margin: 0pt 0pt 6px 6px; }
+#footer .business_card { box-shadow: 0pt 0pt 10px rgba(0, 0, 0, 0.2); border-radius: 5px 5px 5px 5px; border: 1px solid rgb(153, 153, 153); margin: 0pt; width: 300px; background-color: rgb(245, 245, 245); float: right ! important; padding: 12px; }
+#footer .business_card h3 { font-size: 16px; }
+#footer .business_card .browser_support { float: right; font-size: 12px; }
+</style> 
+
+</head> 
+
+<body class="fixed-width"> 
+  <div id='header'> 
+  <h1>Amazon Secure Web Gateway Service</h1> 
+      </div> 
+     <div id='content' style="text-align: left;">
+
+	 
+  
+<!--### eun body starts here ###-->
+
+<h1>Browser blocked due to Unpatched Security Vulnerability</h1>
+<hr>
+
+<p>
+This browser version &quot;Apache-HttpClient/4.4 (Java 1.5 minimum; Java/1.8.0_51)&quot; is not currently permitted to access the Internet due to <strong>unpatched security vulnerabilities</strong> that are being actively exploited on the Internet. Please see <a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/ProxyPolicy" title="Corporate Web Proxy Rules">Corporate Web Proxy Rules</a> for an explanation of why you are getting blocked.
+</p>
+
+<p>You need to <strong>use another browser</strong> to access the Internet. If you are getting blocked using IE, please use Firefox or Chrome. Firefox is installed by default on all Amazon imaged machines. Chrome is available from Run Advertised Programs on Windows and from Self Service on Mac OS X. </p>
+
+<p style="color:red">As of 01/10/2013, we are blocking IE 8 or older and all versions of Java from accessing the Internet, except for <a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/Whitelist">whitelisted sites</a>. If the site you are trying to access only works with IE, then ensure that you are <strong><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/InstallingIE9">running IE 9</a></strong>. We don't yet have an ETA from Microsoft or Oracle as to when these vulnerabilities will be fixed. If you are running already running IE 9, then you probably need to <strong><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways/DisableIE9CompatibilityMode">Disable Compatibility Mode</a></strong></p>
+
+
+
+
+
+<!--### eun body ends here ###-->
+
+
+<p>
+
+
+
+</p>
+</div>
+   <div id='footer'>
+      <div class='inner-container'>
+        <div class='column'>
+          <h3>Secure Web Gateways</h3>
+          <ul>
+            <li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways">More Info</a></li>
+			<li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways#Press_Release">Press Release</a></li>
+          </ul>
+        </div>
+        <div class='business_card'>
+          <h3>Need help?</h3>
+          <ul>
+            <li><a href="https://w.amazon.com/index.php/Infosec/Infrastructure_Services/Secure_Web_Gateways#FAQ">FAQ</a></li>
+            <li><a href="https://infosec.amazon.com">Information Security</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.ZtHttpClientImpl.performRequest(ZtHttpClientImpl.java:241)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.ZtHttpClientImpl.performRequest(ZtHttpClientImpl.java:94)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.loadVersions(VersionsChecker.java:89)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.reloadVersions(VersionsChecker.java:79)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.loadVersions(VersionsChecker.java:70)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.getVersions(VersionsChecker.java:63)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.VersionsChecker.getJavaVersion(VersionsChecker.java:41)
+	at com.zeroturnaround.eclipse.optimizer.plugin.util.JavaVersionUtil.getLatestOracleJavaVersion(JavaVersionUtil.java:27)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.makeIssuesBodyModel(PluginWindowModel.java:154)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.<init>(PluginWindowModel.java:88)
+	at com.zeroturnaround.eclipse.optimizer.plugin.PluginWindowModel.<clinit>(PluginWindowModel.java:33)
+	at com.zeroturnaround.eclipse.optimizer.plugin.Startup$1.run(Startup.java:60)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:31:52.512
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:31:52.533
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:31:54.235
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-08-14 15:31:54.251
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

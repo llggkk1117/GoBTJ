@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -19,11 +18,11 @@ public class Test
 	public static void fileRead1()
 	{
 		try{
-			FileInputStream fis = new FileInputStream(new File("resource/bible/Korean/∞≥ø™∞≥¡§/01√¢ºº±‚.txt")); 
+			FileInputStream fis = new FileInputStream(new File("resource/bible/Korean/Í∞úÏó≠Í∞úÏ†ï/01Ï∞ΩÏÑ∏Í∏∞.txt"));
 
-			InputStreamReader isr = new InputStreamReader(fis,"UTF-8"); 
+			InputStreamReader isr = new InputStreamReader(fis,"UTF-8");
 
-			BufferedReader br = new BufferedReader(isr);	
+			BufferedReader br = new BufferedReader(isr);
 
 			while(true){
 				String str = br.readLine();
@@ -52,15 +51,16 @@ public class Test
 			s.close();
 		}
 	}
-	
-	
+
+
 	public static void fileRead3() throws IOException
 	{
 		RandomAccessFile file = new RandomAccessFile("sample2.txt", "rwd");
 		String line = file.readLine();
+		file.close();
 //		line = new String(line.getBytes("ISO-8859-1"), "UTF-8");
 		line = new String(line.getBytes("8859_1"), "UTF-8");
-		
+
 		System.out.println(line);
 	}
 
@@ -68,7 +68,7 @@ public class Test
 	{
 
 		try {
-			String srcText = new String("UTF-8 ∆ƒ¿œ¿ª ª˝º∫«’¥œ¥Ÿ.");
+			String srcText = new String("UTF-8 ÌååÏùºÏùÑ ÏÉùÏÑ±Ìï©ÎãàÎã§.");
 
 			File targetFile = new File("D:\\output.txt");
 			targetFile.createNewFile();
@@ -85,33 +85,33 @@ public class Test
 
 
 	}
-	
-	
+
+
 	public static void fileWrite2(){
-		 
+
 		  try {
 			File fileDir = new File("sample");
-	 
+
 			Writer out = new BufferedWriter(new OutputStreamWriter(
 				new FileOutputStream(fileDir), "UTF8"));
-	 
-			out.append("¿∏«œ«œ").append("\r\n");
+
+			out.append("ÏúºÌïòÌïò").append("\r\n");
 			out.flush();
 			out.close();
-	 
-		    } 
-		   catch (UnsupportedEncodingException e) 
+
+		    }
+		   catch (UnsupportedEncodingException e)
 		   {
 			System.out.println(e.getMessage());
-		   } 
-		   catch (IOException e) 
+		   }
+		   catch (IOException e)
 		   {
 			System.out.println(e.getMessage());
 		    }
 		   catch (Exception e)
 		   {
 			System.out.println(e.getMessage());
-		   } 
+		   }
 		}
 
 	public static void main(String[] args) throws IOException
@@ -119,9 +119,9 @@ public class Test
 
 //		fileRead3();
 
-		
-		
-		
+
+
+
 
 
 

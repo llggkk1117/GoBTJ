@@ -587,3 +587,481 @@
 2015-08-10 18:07:24,526 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
 2015-08-10 18:07:24,528 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-08-10 18:07:24,531 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 12:57:32,646 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:57:32,713 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 12:57:32,715 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:57:32,722 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 12:58:38,738 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2015-08-14 12:58:38,877 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2015-08-14 12:58:39,672 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 12:58:39,732 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2015-08-14 12:58:39,779 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2015-08-14 12:58:39,858 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+2015-08-14 12:58:39,899 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/maven/plugins/maven-plugins/22/maven-plugins-22.pom
+2015-08-14 12:58:40,057 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.pom
+2015-08-14 12:58:40,110 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.pom
+2015-08-14 12:58:40,210 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.pom
+2015-08-14 12:58:40,251 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.pom
+2015-08-14 12:58:40,298 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+2015-08-14 12:58:40,430 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.pom
+2015-08-14 12:58:40,482 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+2015-08-14 12:58:40,528 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/sonatype/spice/spice-parent/16/spice-parent-16.pom
+2015-08-14 12:58:40,573 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+2015-08-14 12:58:40,619 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/sonatype/forge/forge-parent/5/forge-parent-5.pom
+2015-08-14 12:58:40,666 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.pom
+2015-08-14 12:58:40,707 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.pom
+2015-08-14 12:58:40,752 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+2015-08-14 12:58:40,796 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-components/1.1.19/plexus-components-1.1.19.pom
+2015-08-14 12:58:40,847 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2015-08-14 12:58:40,887 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.pom
+2015-08-14 12:58:41,259 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2015-08-14 12:58:41,400 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
+2015-08-14 12:58:41,545 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.jar
+2015-08-14 12:58:41,632 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/maven/maven-archiver/2.5/maven-archiver-2.5.jar
+2015-08-14 12:58:42,090 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-interpolation/1.15/plexus-interpolation-1.15.jar
+2015-08-14 12:58:42,160 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-interpolation/1.15/plexus-interpolation-1.15.jar
+2015-08-14 12:58:42,427 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2015-08-14 12:58:43,245 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2015-08-14 12:58:43,570 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2015-08-14 12:58:43,635 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2015-08-14 12:58:43,902 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2015-08-14 12:58:44,735 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2015-08-14 12:58:44,921 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+2015-08-14 12:58:45,664 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/codehaus/plexus/plexus-utils/3.0/plexus-utils-3.0.jar
+2015-08-14 12:58:46,492 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GeneLibrary/src
+2015-08-14 12:58:46,620 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GeneLibrary/src/test/java because it overlaps with /GeneLibrary/src
+2015-08-14 12:58:46,906 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-14 12:58:46,934 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:58:46,950 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 12:58:46,959 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:58:46,967 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 12:58:47,724 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 12:58:47,822 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GeneLibrary/src
+2015-08-14 12:58:47,822 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /GeneLibrary/src/test/java because it overlaps with /GeneLibrary/src
+2015-08-14 12:58:47,897 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-14 12:58:48,051 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:58:48,056 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 12:58:48,058 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:58:48,065 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 12:58:59,150 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 12:58:59,187 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:58:59,196 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 12:58:59,201 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 12:58:59,208 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:02:54,808 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:02:54,813 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:02:54,814 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:02:54,824 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:03:25,312 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 13:03:25,617 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:03:25,625 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:03:25,629 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:03:25,634 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:03:28,975 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:03:28,982 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:03:28,989 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:03:28,998 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:04:46,442 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 13:04:46,870 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:04:46,906 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:04:46,914 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:04:46,929 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:05:38,665 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 13:05:38,917 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:05:38,928 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:05:38,935 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:05:38,941 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:05:43,105 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 13:05:43,660 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:05:43,666 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:05:43,670 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:05:43,682 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:06:51,407 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.pom
+2015-08-14 13:06:51,512 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.pom
+2015-08-14 13:06:51,621 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.pom
+2015-08-14 13:06:51,651 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/itextpdf/itext-parent/1.0.0/itext-parent-1.0.0.pom
+2015-08-14 13:06:51,700 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/itextpdf/itext-parent/1.0.0/itext-parent-1.0.0.pom
+2015-08-14 13:06:51,745 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/itextpdf/itext-parent/1.0.0/itext-parent-1.0.0.pom
+2015-08-14 13:06:51,943 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.jar
+2015-08-14 13:06:52,183 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.jar
+2015-08-14 13:06:52,203 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 13:06:57,570 [Worker-9] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/itextpdf/itextpdf/5.5.6/itextpdf-5.5.6.jar
+2015-08-14 13:06:57,931 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:06:57,951 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:06:57,988 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:06:58,003 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:07:02,284 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:07:02,309 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:07:02,315 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:07:02,330 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:23:35,068 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 13:23:35,621 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:23:35,634 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:23:35,640 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:23:35,660 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 13:23:41,658 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:23:41,680 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 13:23:41,682 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 13:23:41,691 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:24:18,196 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:24:18,208 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 14:24:18,211 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:24:18,221 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 14:29:17,262 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:29:17,318 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:17,517 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:17,986 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:19,088 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-snapshot/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:19,651 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/springsource-releases/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:20,114 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/groups/public/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:21,151 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/groups/public-jboss/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:29:21,499 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:29:21,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:29:21,508 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:29:21,514 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:29:31,040 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.pom
+2015-08-14 14:29:31,128 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.pom
+2015-08-14 14:29:31,188 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.pom
+2015-08-14 14:29:31,382 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.jar
+2015-08-14 14:29:31,660 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.jar
+2015-08-14 14:29:31,730 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/net/sourceforge/jchardet/jchardet/1.0/jchardet-1.0.jar
+2015-08-14 14:29:31,897 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:29:32,245 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:29:32,258 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:29:32,259 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:29:32,275 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:29:38,208 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:29:38,220 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:29:38,226 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:29:38,240 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:36:58,602 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:36:58,975 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-milestone/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:36:59,293 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.springsource.org/libs-snapshot-remote/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:36:59,512 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-release-remote/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:36:59,720 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:36:59,736 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:36:59,743 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:36:59,755 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:37:04,712 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:37:04,953 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:04,965 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:37:04,972 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:04,981 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:37:08,633 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:08,642 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:37:08,643 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:08,651 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:37:25,404 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:37:25,609 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:25,625 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:37:25,636 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:25,651 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:37:29,760 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:37:29,997 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:30,004 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:37:30,011 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:30,024 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:37:33,518 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:33,525 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:37:33,532 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:37:33,546 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:46:47,914 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:46:47,943 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:48,018 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:48,259 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:48,929 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-milestone/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:49,425 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-snapshot/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:49,796 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.springsource.org/libs-snapshot-remote/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:50,016 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-release-remote/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:50,349 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:50,440 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.pom
+2015-08-14 14:46:50,598 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:50,647 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:50,827 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:51,413 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-milestone/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:51,809 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-snapshot/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:52,043 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.springsource.org/libs-snapshot-remote/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:52,273 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-release-remote/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:52,329 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:54,096 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc6/11.2.0.3/ojdbc6-11.2.0.3.jar
+2015-08-14 14:46:54,251 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:46:54,265 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:46:54,276 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:46:54,291 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:46:57,674 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:46:57,684 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:46:57,685 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:46:57,699 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:48:09,721 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:48:09,755 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:09,929 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:10,185 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:11,040 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-milestone/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:11,347 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-snapshot/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:11,623 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.springsource.org/libs-snapshot-remote/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:11,867 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-release-remote/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:12,224 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://code.lds.org/nexus/content/groups/main-repo/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:12,732 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://oss.sonatype.org/content/repositories/springsource-releases/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:13,168 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/groups/public/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:14,143 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.jboss.org/nexus/content/groups/public-jboss/net/sourceforge/jchardet/jchardet/1.1.0/jchardet-1.1.0.pom
+2015-08-14 14:48:14,382 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:48:14,398 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:48:14,407 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:48:14,419 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:51:10,925 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:51:11,790 [Worker-36] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://code.lds.org/nexus/content/groups/main-repo/net/sourceforge/jchardet/jchardet/1.1/jchardet-1.1.pom
+2015-08-14 14:51:12,130 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:51:12,149 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:51:12,159 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:51:12,174 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:52:33,168 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:33,251 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:33,563 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:33,734 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:52:34,628 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-milestone/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:34,978 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-snapshot/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:35,283 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.springsource.org/libs-snapshot-remote/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:35,526 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-release-remote/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:35,712 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:35,777 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2015-08-14 14:52:36,013 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:52:36,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:52:36,025 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:52:36,038 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:54:37,901 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:54:37,909 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:54:37,911 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:54:37,926 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:54:42,001 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:54:42,135 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:42,201 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:42,423 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/milestone/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:43,160 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-milestone/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:43,534 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-snapshot/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:43,801 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.springsource.org/libs-snapshot-remote/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:44,017 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.spring.io/libs-release-remote/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:44,104 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:46,449 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://code.lds.org/nexus/content/groups/main-repo/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.jar
+2015-08-14 14:54:46,611 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:54:46,630 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:54:46,640 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:54:46,654 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:54:49,886 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:54:49,900 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:54:49,907 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:54:49,920 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:55:14,669 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:55:14,686 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:55:14,696 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:55:14,710 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:56:55,902 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 14:56:56,102 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:56:56,113 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:56:56,120 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:56:56,126 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 14:56:59,081 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:56:59,090 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 14:56:59,091 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 14:56:59,098 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:01:01,457 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:01:01,487 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2015-08-14 15:01:01,627 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2015-08-14 15:01:01,689 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.pom
+2015-08-14 15:01:01,819 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/joda-time/joda-time/2.8.2/joda-time-2.8.2.jar
+2015-08-14 15:01:02,093 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.jar
+2015-08-14 15:01:04,951 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/joda-time/joda-time/2.8.2/joda-time-2.8.2.jar
+2015-08-14 15:01:05,197 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:05,209 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:01:05,217 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:05,231 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:01:08,128 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:08,146 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:01:08,156 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:08,176 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:01:52,100 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:01:52,128 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.pom
+2015-08-14 15:01:52,172 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.pom
+2015-08-14 15:01:52,246 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.pom
+2015-08-14 15:01:52,391 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar
+2015-08-14 15:01:52,470 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar
+2015-08-14 15:01:52,956 [Worker-38] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar
+2015-08-14 15:01:53,150 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:53,158 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:01:53,166 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:53,173 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:01:55,941 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:01:56,504 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:56,518 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:01:56,525 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:56,538 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:01:59,316 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:01:59,579 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:59,592 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:01:59,600 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:01:59,606 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:02:33,515 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:02:33,726 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:02:33,733 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:02:33,734 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:02:33,749 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:02:36,559 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:02:36,571 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:02:36,579 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:02:36,590 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:06:47,312 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:06:47,326 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:06:47,327 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:06:47,347 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:07:18,556 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:07:18,574 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:07:18,581 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:07:18,594 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:08:51,437 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:08:51,444 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:08:51,445 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:08:51,474 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:09:17,422 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:09:17,445 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:09:17,453 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:09:17,473 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:09:34,182 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:09:34,191 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:09:34,192 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:09:34,207 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:09:35,458 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:09:35,472 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:09:35,480 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:09:35,494 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:10:25,691 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:10:25,698 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:10:25,699 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:10:25,712 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:11:23,667 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:11:23,680 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:11:23,686 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:11:23,699 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:11:42,367 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:11:42,377 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:11:42,378 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:11:42,399 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:12:39,077 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:12:39,084 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:12:39,091 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:12:39,106 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:13:38,233 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:13:38,242 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:13:38,243 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:13:38,258 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:13:45,255 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:13:45,275 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:13:45,282 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:13:45,296 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:13:52,317 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:13:52,327 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:13:52,328 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:13:52,344 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources
+2015-08-14 15:22:57,122 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:22:57,133 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:22:57,145 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:22:57,159 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:23:08,212 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:23:08,218 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:23:08,219 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:23:08,231 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:27:27,224 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:27:27,284 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+2015-08-14 15:27:27,376 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+2015-08-14 15:27:27,420 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+2015-08-14 15:27:27,441 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+2015-08-14 15:27:27,472 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+2015-08-14 15:27:27,510 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+2015-08-14 15:27:27,532 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/ow2/ow2/1.3/ow2-1.3.pom
+2015-08-14 15:27:27,566 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+2015-08-14 15:27:27,612 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+2015-08-14 15:27:27,755 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar
+2015-08-14 15:27:28,091 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar
+2015-08-14 15:27:28,144 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar
+2015-08-14 15:27:28,324 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:27:28,335 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:27:28,344 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:27:28,351 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:27:31,457 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:27:31,467 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:27:31,475 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:27:31,492 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:28:09,985 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:28:10,036 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/cglib/cglib-nodep/3.1/cglib-nodep-3.1.pom
+2015-08-14 15:28:10,074 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.pom
+2015-08-14 15:28:10,117 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.pom
+2015-08-14 15:28:10,229 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/cglib/cglib-nodep/3.1/cglib-nodep-3.1.jar
+2015-08-14 15:28:10,404 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.jar
+2015-08-14 15:28:12,078 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/cglib/cglib-nodep/3.1/cglib-nodep-3.1.jar
+2015-08-14 15:28:12,272 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:28:12,280 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:28:12,281 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:28:12,294 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:28:15,513 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:28:15,528 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:28:15,536 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:28:15,550 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:29:20,743 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:29:20,819 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/apache/logging/log4j/log4j-core/2.3/log4j-core-2.3.pom
+2015-08-14 15:29:20,854 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.3/log4j-core-2.3.pom
+2015-08-14 15:29:20,903 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.3/log4j-core-2.3.pom
+2015-08-14 15:29:20,932 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/apache/logging/log4j/log4j/2.3/log4j-2.3.pom
+2015-08-14 15:29:20,990 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/logging/log4j/log4j/2.3/log4j-2.3.pom
+2015-08-14 15:29:21,033 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/logging/log4j/log4j/2.3/log4j-2.3.pom
+2015-08-14 15:29:21,065 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/apache/logging/log4j/log4j-api/2.3/log4j-api-2.3.pom
+2015-08-14 15:29:21,097 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.3/log4j-api-2.3.pom
+2015-08-14 15:29:21,134 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.3/log4j-api-2.3.pom
+2015-08-14 15:29:21,285 [BasicRepositoryConnector--0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/apache/logging/log4j/log4j-core/2.3/log4j-core-2.3.jar
+2015-08-14 15:29:21,285 [BasicRepositoryConnector--0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/apache/logging/log4j/log4j-api/2.3/log4j-api-2.3.jar
+2015-08-14 15:29:21,495 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.3/log4j-core-2.3.jar
+2015-08-14 15:29:24,087 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.3/log4j-core-2.3.jar
+2015-08-14 15:29:24,526 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.3/log4j-api-2.3.jar
+2015-08-14 15:29:24,574 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.3/log4j-api-2.3.jar
+2015-08-14 15:29:24,837 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:29:24,850 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:29:24,851 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:29:24,866 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:29:30,397 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:29:30,407 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:29:30,408 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:29:30,437 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:30:04,143 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:30:04,244 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2015-08-14 15:30:04,283 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2015-08-14 15:30:04,328 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.pom
+2015-08-14 15:30:04,354 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2015-08-14 15:30:04,399 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2015-08-14 15:30:04,442 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/slf4j/slf4j-parent/1.7.12/slf4j-parent-1.7.12.pom
+2015-08-14 15:30:04,477 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.pom
+2015-08-14 15:30:04,507 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.pom
+2015-08-14 15:30:04,546 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.pom
+2015-08-14 15:30:04,708 [BasicRepositoryConnector--1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2015-08-14 15:30:04,709 [BasicRepositoryConnector--1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/PTP/Maven/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar
+2015-08-14 15:30:04,881 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2015-08-14 15:30:04,942 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar
+2015-08-14 15:30:05,024 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://uk.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar
+2015-08-14 15:30:05,107 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://uk.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar
+2015-08-14 15:30:05,461 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:30:05,471 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:30:05,473 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:30:05,497 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:30:09,589 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:30:09,600 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:30:09,602 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:30:09,614 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:30:57,150 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GeneLibrary:GeneLibrary:0.0.1-SNAPSHOT @ C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\pom.xml.
+2015-08-14 15:30:57,526 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:30:57,535 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:30:57,546 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:30:57,555 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:31:52,499 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:31:52,528 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\main\resources
+2015-08-14 15:31:52,531 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:31:52,547 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GeneLibrary\src\test\resources
+2015-08-14 15:31:54,234 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:31:54,247 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\main\resources
+2015-08-14 15:31:54,249 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-14 15:31:54,260 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\genelee\Desktop\Data\MyCode\GoBTJ\workspace\GoBTJ\src\test\resources

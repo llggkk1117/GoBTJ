@@ -1,0 +1,7 @@
+Synchronized의 옳바른 사용법
+
+1. 일반멤버변수를 사용하는 일반멤버함수는  Synchronized를 붙인다.
+2. static 멤버변수를 사용하는 static 멤버함수는 Synchronized를 붙인다.
+3. 일반멤버변수나 static멤버변수를 전혀 사용하지 않고 local변수만을 사용하는 일반함수나 static함수는  Synchronized를 붙이지 않는다.
+4. 일반함수에서 static 멤버변수를 사용할 경우, 그 static 멤버변수를 사용하는 코드영역은 critical section이며 이 영역의 코드를 따로 떼어내어
+   static멤버함수로 만들고 그 static멤버함수에 Synchronized를 붙인 후 그 일반함수에서 새로 만든 이 static멤버함수를 호출하도록 코드를 변경한다.

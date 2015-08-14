@@ -1,0 +1,8 @@
+12-30 12:20:18 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO TEST VALUES ('aa', 'bb')
+COMMIT[*] "; SQL statement:
+insert into test values ('aa', 'bb')
+commit [42000-162]
+12-30 12:21:06 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "INSERT INTO TEST VALUES ('aa', 'bb')TEST[*] "; SQL statement:
+insert into test values ('aa', 'bb')TEST [42000-162]

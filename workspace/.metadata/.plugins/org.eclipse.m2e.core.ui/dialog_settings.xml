@@ -14,12 +14,14 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="GeneLibrary"/>
 			<item value="GoBTJ"/>
 			<item value="Test"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="GeneLibrary"/>
 			<item value="GoBTJ"/>
 			<item value="Test"/>
 		</list>
